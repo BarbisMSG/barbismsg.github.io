@@ -12,8 +12,9 @@ header h1{
 }
 
 .img1{
-      width: 50vh;
-      height: 50vh;
+      width: 20vh;
+      
+      position: relative;
 }
 
 a{
@@ -63,3 +64,5 @@ footer p{
     font-size: 15px;
     margin-left: 0px;
 }
+
+
